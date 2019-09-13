@@ -16,6 +16,14 @@ I have chosen to study at RMIT because it offered a wide range of IT courses ava
 
 During my studies at RMIT, I expect to learn about the application of IT systems in our everyday life. This includes simpler applications such as social media, to far more complex ones, such as the way IT systems impact on our daily life. I also expect to learn how to use GitHub in a proper manner and thus be introduced to a new way of editing a shared document online. Before this course, I thought that google drive would be the best way to share and edit the document from multiple locations, but I have realised that GitHub works just as well, and especially better if coding is involved. I also plan to learn more about university life and skills for time management, so when I eventually reach university, I am able to work around problems and manage my time better than I can now.
 
+## Personal Profile
+
+### Myers-Briggs Test
+![Myers Briggs Test results](https://github.com/keetanSouthwell/ITPAssignment1/blob/master/Screen%20Shot%202018-06-05%20at%2011.15.36%20am.png)
+
+### Learning Style Test
+![Learning Style Test results] 
+
 ## My Ideal Job
 
 [My ideal job](https://www.seek.com.au/job/39733656?searchrequesttoken=9f6a4ef6-eb8f-4918-9b2f-aa49fd6884c9&type=promoted) as a civil project manager.
