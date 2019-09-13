@@ -5,10 +5,16 @@
 My name is Keetan Southwell, my student ID is 795652, my email address is keetan.southwell@gmail.com. I am a year 10 student and live on the North Shore of Sydney. I was born in Canada and moved to Sydney when I was 7. I have one Golden Retriever named Ryder.
 
 ### Interest in IT
+
 My interest in IT started when I was very young. My dad was a software engineer for  a while before I was born and knowing this I have always taken an interest in IT. My interest in IT was mainly centred around animation and particularly computer graphics imaging because of my interest in movies from a young age. Mainly watching movies such as Star Wars caused this interest. When I became a little bit older I always had an obsession with finding out why things work the way they do. This lead on to my interest in computers, since they are such a large and integral part of our lives. From this, I became interested in the idea of information, software and technology electives at school and learning Java and C# through this subject has only sparked my interest more. So far I have completed the CPT 120 and CPT 121 courses at RMIT, so I have a medium experience in Java, as well as having completed the year 9 IST course and most of the year 10 course.
 
 ### Why I Chose RMIT
+
 I have chosen to study at RMIT because it offered a wide range of IT courses available through Open Universities. The main reason was because of the options open through Open Uni, since I needed a convenient method that didn’t mean I needed to go to a venue to study my courses. RMIT was a stand-out option since it was a university that offered basic level courses, with no experience required for programming, which was originally why I chose it, then I progressed on to IT systems. I had RMIT recommended to me by a friend as well, who is currently taking this same course with me.
+
+### What I Intend to Learn
+
+During my studies at RMIT, I expect to learn about the application of IT systems in our everyday life. This includes simpler applications such as social media, to far more complex ones, such as the way IT systems impact on our daily life. I also expect to learn how to use GitHub in a proper manner and thus be introduced to a new way of editing a shared document online. Before this course, I thought that google drive would be the best way to share and edit the document from multiple locations, but I have realised that GitHub works just as well, and especially better if coding is involved. I also plan to learn more about university life and skills for time management, so when I eventually reach university, I am able to work around problems and manage my time better than I can now.
 
 ## My Ideal Job
 
