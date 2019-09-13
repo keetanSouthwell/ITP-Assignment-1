@@ -25,7 +25,7 @@ During my studies at RMIT, I expect to learn about the application of IT systems
 ![Learning Style Test results](https://github.com/keetanSouthwell/ITPAssignment1/blob/master/Screen%20Shot%202019-09-13%20at%204.50.17%20pm.png) 
 
 ### Big 5 Personality Test
-![Big 5 Test results]()
+![Big 5 Test results](https://github.com/keetanSouthwell/ITPAssignment1/blob/master/Screen%20Shot%202019-09-13%20at%205.02.27%20pm.png)
 
 ## My Ideal Job
 
