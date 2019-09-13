@@ -13,7 +13,7 @@ I have chosen to study at RMIT because it offered a wide range of IT courses ava
 ## My Ideal Job
 
 [My ideal job](https://www.seek.com.au/job/39733656?searchrequesttoken=9f6a4ef6-eb8f-4918-9b2f-aa49fd6884c9&type=promoted) as a civil project manager.
-![Screenshot of the main details]()
+![](https://github.com/keetanSouthwell/ITPAssignment1/blob/master/Screen%20Shot%202019-09-11%20at%204.15.26%20pm.png)
 
 ### What is it?
 The position is a management position, requiring an overseeing of all aspects of a construction site. Looking at contractors and their sub-groups, managing the planning and organisation of the site in question and questioning and dealing with architects and job site inspectors. This is appealing to me, not just because of the position, but also because of the steps needed to gain this experience to get into the position. The position requires years of experience in the engineering field, which is a decent job, but I also want to move up the ranks in a reputable company, and taking this job would allow me to do this. The idea of management is also appealing to me, because I enjoy being organised and scheduled in my life, and I think that proceeding in a management type position would help me to achieve this.
