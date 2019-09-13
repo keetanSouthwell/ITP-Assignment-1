@@ -76,23 +76,23 @@ To find the software that would be necessary wouldn’t be too hard since it alr
 The outcome of the project should be a large decrease in building failures because of the physics engine of the system. This would solve the original problem of there being too many building failures in cities. The program would also be a great way to teach engineering students about building technique without wasting materials or time on physically building structures. In the real world, there is no room for testing and experimentation, but this program would allow for this. There may be new developments because of it, as new building materials were tested by different users of the program.
 
 ## Reference List (In Haravrd Style)
-[AIPM - HOME . 2019. AIPM - HOME . [ONLINE] Available at: https://www.aipm.com.au/home. [Accessed 13 September 2019].]
+[AIPM - HOME . 2019. AIPM - HOME . [ONLINE] Available at: [](https://www.aipm.com.au/home). [Accessed 13 September 2019].]
 
-[Apply for a general construction induction card Service NSW. 2019. Apply for a general construction induction card | Service NSW. [ONLINE] Available at: https://www.service.nsw.gov.au/transaction/apply-general-construction-induction-card. [Accessed 13 September 2019].]
+[Apply for a general construction induction card Service NSW. 2019. Apply for a general construction induction card Service NSW. [ONLINE] Available at: [](https://www.service.nsw.gov.au/transaction/apply-general-construction-induction-card). [Accessed 13 September 2019].]
 
-[SEEK. 2019. No page title. [ONLINE] Available at: https://www.seek.com.au/job/39733656?searchrequesttoken=9f6a4ef6-eb8f-4918-9b2f-aa49fd6884c9&type=promoted. [Accessed 13 September 2019].]
+[SEEK. 2019. No page title. [ONLINE] Available at: [](https://www.seek.com.au/job/39733656?searchrequesttoken=9f6a4ef6-eb8f-4918-9b2f-aa49fd6884c9&type=promoted). [Accessed 13 September 2019].]
 
-[What's Your Learning Style?. 2019. What's Your Learning Style?. [ONLINE] Available at: http://www.educationplanner.org/students/self-assessments/learning-styles.shtml. [Accessed 13 September 2019].]
+[What's Your Learning Style?. 2019. What's Your Learning Style?. [ONLINE] Available at: [](http://www.educationplanner.org/students/self-assessments/learning-styles.shtml). [Accessed 13 September 2019].]
 
-[16Personalities. 2019. Free Personality Test 16Personalities. [ONLINE] Available at: https://www.16personalities.com/free-personality-test. [Accessed 13 September 2019].]
+[16Personalities. 2019. Free Personality Test 16Personalities. [ONLINE] Available at: [](https://www.16personalities.com/free-personality-test). [Accessed 13 September 2019].]
 
-[The Fifth Estate. 2019. Building failures and developer ecosystems: the tip of the iceberg - The Fifth Estate . [ONLINE] Available at: https://www.thefifthestate.com.au/innovation/building-construction/building-failures-and-developer-ecosystems-the-tip-of-the-iceberg/. 
+[The Fifth Estate. 2019. Building failures and developer ecosystems: the tip of the iceberg - The Fifth Estate . [ONLINE] Available at: [](https://www.thefifthestate.com.au/innovation/building-construction/building-failures-and-developer-ecosystems-the-tip-of-the-iceberg/). 
 [Accessed 13 September 2019].]
 
-[How skyscraper is made - material, history, used, components, composition, structure, steps, History, Raw Materials. 2019. How skyscraper is made - material, history, used, components, composition, structure, steps, History, Raw Materials. [ONLINE] Available at: http://www.madehow.com/Volume-6/Skyscraper.html. [Accessed 13 September 2019].]
+[How skyscraper is made - material, history, used, components, composition, structure, steps, History, Raw Materials. 2019. How skyscraper is made - material, history, used, components, composition, structure, steps, History, Raw Materials. [ONLINE] Available at: [](http://www.madehow.com/Volume-6/Skyscraper.html). [Accessed 13 September 2019].]
 
-[Australian Financial Review. 2019. The apartment building 'crisis' explained. [ONLINE] Available at: https://www.afr.com/politics/federal/the-apartment-building-crisis-explained-20190716-p527k0. [Accessed 13 September 2019].]
+[Australian Financial Review. 2019. The apartment building 'crisis' explained. [ONLINE] Available at: [](https://www.afr.com/politics/federal/the-apartment-building-crisis-explained-20190716-p527k0). [Accessed 13 September 2019].]
 
 [Truity. 2019. The Big Five Personality Test Truity. [ONLINE] Available at: https://www.truity.com/personality-test/13683/test-results/9259287. [Accessed 13 September 2019].]
 
-[Harvard Referencing Generator We love referencing! . 2019. Harvard Referencing Generator We love referencing! . [ONLINE] Available at: https://www.harvardgenerator.com/. [Accessed 13 September 2019].]
+[Harvard Referencing Generator We love referencing! . 2019. Harvard Referencing Generator We love referencing! . [ONLINE] Available at: [](https://www.harvardgenerator.com/). [Accessed 13 September 2019].]
