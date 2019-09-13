@@ -75,7 +75,7 @@ To find the software that would be necessary wouldn’t be too hard since it alr
 
 The outcome of the project should be a large decrease in building failures because of the physics engine of the system. This would solve the original problem of there being too many building failures in cities. The program would also be a great way to teach engineering students about building technique without wasting materials or time on physically building structures. In the real world, there is no room for testing and experimentation, but this program would allow for this. There may be new developments because of it, as new building materials were tested by different users of the program.
 
-### Reference List (In Haravrd Style)
+## Reference List (In Haravrd Style)
 [AIPM - HOME . 2019. AIPM - HOME . [ONLINE] Available at: https://www.aipm.com.au/home. [Accessed 13 September 2019].]
 
 [Apply for a general construction induction card | Service NSW. 2019. Apply for a general construction induction card | Service NSW. [ONLINE] Available at: https://www.service.nsw.gov.au/transaction/apply-general-construction-induction-card. [Accessed 13 September 2019].]
