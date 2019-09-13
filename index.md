@@ -38,7 +38,7 @@ When forming a team, I should probably make sure that they are a group of people
 
 ## My Ideal Job
 
-[My ideal job](https://www.seek.com.au/job/39733656?searchrequesttoken=9f6a4ef6-eb8f-4918-9b2f-aa49fd6884c9&type=promoted) as a civil project manager.
+[My ideal job](https://www.seek.com.au/job/39733656?searchrequesttoken=9f6a4ef6-eb8f-4918-9b2f-aa49fd6884c9&type=promoted) as a civil infastructure project manager.
 
 ![Main Details](https://github.com/keetanSouthwell/ITPAssignment1/blob/master/Screen%20Shot%202019-09-11%20at%204.15.26%20pm.png)
 
