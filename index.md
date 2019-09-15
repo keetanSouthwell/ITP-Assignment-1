@@ -22,9 +22,10 @@ During my studies at RMIT, I expect to learn about the application of IT systems
 <img src = "Images/MyersBriggs.png"/>
 
 ### Learning Style Test
-![Learning Style Test results](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/Images/LearningStyle.png) 
+<img src = "Images/LearningStyle.png"/>
 
 ### Big 5 Personality Test
+
 ![Big 5 Test results](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/Images/Big5.png)
 
 ### What do the Results Mean?
