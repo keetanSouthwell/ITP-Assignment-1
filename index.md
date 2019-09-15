@@ -25,8 +25,7 @@ During my studies at RMIT, I expect to learn about the application of IT systems
 <img src = "Images/LearningStyle.png"/>
 
 ### Big 5 Personality Test
-
-![Big 5 Test results](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/Images/Big5.png)
+<img src = "Images/Big5.png"/>
 
 ### What do the Results Mean?
 To me, these results mean that I generally have a personality that requires me to be very organised or in control of a situation. I am also easily distracted, thus I need to have a tactile form of learning so that I can work instead of fiddle or become distracted. I am more comfortable when not in a group, which conflicts with my ability to be in control. My results in the Myers-Briggs test show the same as my results in the other personality test, that I am highly introverted and not willing to interact with others as easily as I should be. The Myers-Briggs test also reveals that I value planning and care when completing tasks, which I do agree with, as I would classify myself as obsessive-compulsive.
@@ -41,7 +40,7 @@ When forming a team, I should probably make sure that they are a group of people
 
 [My ideal job](https://www.seek.com.au/job/39733656?searchrequesttoken=9f6a4ef6-eb8f-4918-9b2f-aa49fd6884c9&type=promoted) as a civil infastructure project manager.
 
-![Main Details](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/Images/IdealJob.png)
+<img src = "Images/IdealJob.png"/>
 
 ### What is it?
 The position is a management position, requiring an overseeing of all aspects of a construction site. Looking at contractors and their sub-groups, managing the planning and organisation of the site in question and questioning and dealing with architects and job site inspectors. This is appealing to me, not just because of the position, but also because of the steps needed to gain this experience to get into the position. The position requires years of experience in the engineering field, which is a decent job, but I also want to move up the ranks in a reputable company, and taking this job would allow me to do this. The idea of management is also appealing to me, because I enjoy being organised and scheduled in my life, and I think that proceeding in a management type position would help me to achieve this.
