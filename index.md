@@ -40,7 +40,7 @@ When forming a team, I should probably make sure that they are a group of people
 
 [My ideal job](https://www.seek.com.au/job/39733656?searchrequesttoken=9f6a4ef6-eb8f-4918-9b2f-aa49fd6884c9&type=promoted) as a civil infastructure project manager.
 
-![Main Details](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/IdealJob.png)
+![Main Details](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/Images/IdealJob.png)
 
 ### What is it?
 The position is a management position, requiring an overseeing of all aspects of a construction site. Looking at contractors and their sub-groups, managing the planning and organisation of the site in question and questioning and dealing with architects and job site inspectors. This is appealing to me, not just because of the position, but also because of the steps needed to gain this experience to get into the position. The position requires years of experience in the engineering field, which is a decent job, but I also want to move up the ranks in a reputable company, and taking this job would allow me to do this. The idea of management is also appealing to me, because I enjoy being organised and scheduled in my life, and I think that proceeding in a management type position would help me to achieve this.
