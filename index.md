@@ -25,7 +25,7 @@ During my studies at RMIT, I expect to learn about the application of IT systems
 ![Learning Style Test results](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/LearningStyle.png) 
 
 ### Big 5 Personality Test
-![Big 5 Test results](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/Big5.png)
+![Big 5 Test results](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/Images/Big5.png)
 
 ### What do the Results Mean?
 To me, these results mean that I generally have a personality that requires me to be very organised or in control of a situation. I am also easily distracted, thus I need to have a tactile form of learning so that I can work instead of fiddle or become distracted. I am more comfortable when not in a group, which conflicts with my ability to be in control. My results in the Myers-Briggs test show the same as my results in the other personality test, that I am highly introverted and not willing to interact with others as easily as I should be. The Myers-Briggs test also reveals that I value planning and care when completing tasks, which I do agree with, as I would classify myself as obsessive-compulsive.
