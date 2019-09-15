@@ -22,7 +22,7 @@ During my studies at RMIT, I expect to learn about the application of IT systems
 ![Myers Briggs Test results](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/MyersBriggs.png)
 
 ### Learning Style Test
-![Learning Style Test results](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/Images/IdealJob.png) 
+![Learning Style Test results](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/Images/LearningStyle.png) 
 
 ### Big 5 Personality Test
 ![Big 5 Test results](https://github.com/keetanSouthwell/ITP-Assignment-1/blob/master/Images/Big5.png)
