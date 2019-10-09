@@ -1,8 +1,8 @@
 # Assignment 1 ITP
 
-## About Me
+## About Mi sa
 
-My name is Keetan Southwell, my student ID is 795652, my email address is keetan.southwell@gmail.com. I am a year 10 student and live on the North Shore of Sydney. I was born in Canada and moved to Sydney when I was 7. I have one Golden Retriever named Ryder.
+Mi sa jaja binks, my student ID is 795652, my email address is keetan.southwell@gmail.com. I am a year 10 student and live on the North Shore of Sydney. I was born in Canada and moved to Sydney when I was 7. I have one Golden Retriever named Ryder.
 
 ### Interest in IT
 
